@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1472313274 source:c:\users\alumno\downloads\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1457052376 c:\users\alumno\downloads\tp_1_cascara\funciones.h
+
+1472600192 source:g:\trabajo practico\funciones.c
+	"funciones.h"
+
+1472517888 g:\trabajo practico\funciones.h
+
+1472601646 source:g:\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472657366 source:e:\trabajo practico\funciones.c
+	"funciones.h"
+
+1472644340 e:\trabajo practico\funciones.h
+
+1472644916 source:e:\trabajo practico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472657366 source:g:\workspace c\trabajo practico\funciones.c
+	"funciones.h"
+
+1472644340 g:\workspace c\trabajo practico\funciones.h
+
+1472917458 source:f:\workspace c\trabajo-practico-1\funciones.c
+	"funciones.h"
+
+1472917152 f:\workspace c\trabajo-practico-1\funciones.h
+
+1472917900 source:f:\workspace c\trabajo-practico-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473118034 source:g:\workspace c\trabajo-practico-1\funciones.c
+	"funciones.h"
+
+1473116668 g:\workspace c\trabajo-practico-1\funciones.h
+
+1473116486 source:g:\workspace c\trabajo-practico-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473085274 source:e:\workspace c\trabajo-practico-1\funciones.c
+	"funciones.h"
+
+1473039888 e:\workspace c\trabajo-practico-1\funciones.h
+
+1473085296 source:e:\workspace c\trabajo-practico-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473172014 source:c:\users\familia\desktop\workspace c\tp_laboratorio_1\trabajo-practico-1\funciones.c
+	"funciones.h"
+
+1473116668 c:\users\familia\desktop\workspace c\tp_laboratorio_1\trabajo-practico-1\funciones.h
+
+1504740521 source:c:\users\familia\desktop\workspace c\tp_laboratorio_1\trabajo-practico-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1473172014 source:f:\trabajo_practico_1\funciones.c
+	"funciones.h"
+
+1473116668 f:\trabajo_practico_1\funciones.h
+
+1504876650 source:f:\trabajo_practico_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1473172014 source:e:\java y c todo\trabajos practicos-c\trabajo_practico_1\funciones.c
+	"funciones.h"
+
+1473116668 e:\java y c todo\trabajos practicos-c\trabajo_practico_1\funciones.h
+
+1473172014 source:f:\java y c todo\trabajos practicos-c\trabajo_practico_1\funciones.c
+	"funciones.h"
+
+1473116668 f:\java y c todo\trabajos practicos-c\trabajo_practico_1\funciones.h
+
+1523306124 source:f:\java y c todo\trabajos practicos-c\trabajo_practico_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1523306532 source:e:\java y c todo\trabajos practicos-c\trabajo_practico_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
