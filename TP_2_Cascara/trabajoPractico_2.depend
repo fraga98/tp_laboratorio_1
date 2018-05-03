@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1525370111 source:c:\users\familia\desktop\trabajopractico_2\fraga.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fraga.h"
+
+1525369513 c:\users\familia\desktop\trabajopractico_2\fraga.h
+
+1525369668 source:c:\users\familia\desktop\trabajopractico_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fraga.h"
+
