@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1463513172 source:c:\users\alejandro\documents\laboratorio1\tpnº3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1463513158 c:\users\alejandro\documents\laboratorio1\tpnº3\funciones.h
+
+1463501376 source:c:\users\alejandro\documents\laboratorio1\tpnº3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1464108472 source:f:\laboratorio2016\tpnº3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"funciones.h"
+
+1464218552 f:\laboratorio2016\tpnº3\funciones.h
+
+1464218552 source:f:\laboratorio2016\tpnº3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
+1465328359 source:c:\users\alejandro\desktop\tpnº3\funciones.c
+	"funciones.h"
+
+1465329333 c:\users\alejandro\desktop\tpnº3\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estructuras.h"
+	"utilesV2.h"
+
+1465328322 c:\users\alejandro\desktop\tpnº3\estructuras.h
+
+1465328359 source:c:\users\alejandro\desktop\tpnº3\main.c
+	"funciones.h"
+
+1465329645 c:\users\alejandro\desktop\tpnº3\utilesv2.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1465328360 source:c:\users\familia\desktop\tpnº3\funciones.c
+	"funciones.h"
+
+1465329334 c:\users\familia\desktop\tpnº3\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estructuras.h"
+	"utilesV2.h"
+
+1465328324 c:\users\familia\desktop\tpnº3\estructuras.h
+
+1465329646 c:\users\familia\desktop\tpnº3\utilesv2.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1478040269 source:c:\users\familia\desktop\tpnº3\main.c
+	"funciones.h"
+
+1465329646 source:c:\users\familia\desktop\tpnº3\utilesv2.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"utilesV2.h"
+
+1465328360 source:c:\users\familia\desktop\facultad\tpnº3\funciones.c
+	"funciones.h"
+
+1465329334 c:\users\familia\desktop\facultad\tpnº3\funciones.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"estructuras.h"
+	"utilesV2.h"
+
+1465328324 c:\users\familia\desktop\facultad\tpnº3\estructuras.h
+
+1465329646 c:\users\familia\desktop\facultad\tpnº3\utilesv2.h
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+
+1478040269 source:c:\users\familia\desktop\facultad\tpnº3\main.c
+	"funciones.h"
+
+1465329646 source:c:\users\familia\desktop\facultad\tpnº3\utilesv2.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"utilesV2.h"
+
